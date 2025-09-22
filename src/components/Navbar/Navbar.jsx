@@ -2,13 +2,17 @@ import { Link } from "react-router";
 
 const Navbar = () => {
   return (
-    <div className="mx-auto bg-red-400">
+    <div className="mx-auto bg-black">
       <div className="navbar px-20 border border-zinc-500 ">
         <div className="navbar-start mt-2">
           <Link className="text-sm font-semibold text-white ml-5">HOME</Link>
-          <Link className="text-sm font-semibold text-white ml-5">PRODUCTS</Link>
+          <Link className="text-sm font-semibold text-white ml-5">
+            PRODUCTS
+          </Link>
           <Link className="text-sm font-semibold text-white ml-5">BUY</Link>
-          <Link className="text-sm font-semibold text-white ml-5">ELEMENTS</Link>
+          <Link className="text-sm font-semibold text-white ml-5">
+            ELEMENTS
+          </Link>
         </div>
         <div className="navbar-center">
           <Link className="text-3xl font-extrabold text-center  text-white">
@@ -17,10 +21,16 @@ const Navbar = () => {
         </div>
         <div className="navbar-end mt-2">
           <div className="">
-            <Link className="text-white text-sm font-semibold mr-4">LOGIN/REGISTER</Link>
+            <Link className="text-white text-sm font-semibold mr-4">
+              LOGIN/REGISTER
+            </Link>
           </div>
           {/* shopping cart button */}
-          <div tabIndex={0} role="button" className="btn btn-ghost mr-4 bg-amber-300 btn-circle">
+          <div
+            tabIndex={0}
+            role="button"
+            className="btn btn-ghost mr-4 bg-amber-300 btn-circle"
+          >
             <div className="indicator">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

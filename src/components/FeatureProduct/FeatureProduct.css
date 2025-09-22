@@ -1,0 +1,13 @@
+.or-product{
+    background-image:url('/src/image/org-3.jpg');
+    background-size: cover ;
+    background-repeat: no-repeat;
+    
+}
+.or-product-bg{
+    background-image:url('/src/image/org-3.jpg');
+    width: 365px;
+    height: 250px;
+    background-size:cover ;
+    background-repeat: no-repeat;
+}

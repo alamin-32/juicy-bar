@@ -4,13 +4,13 @@ const Footer = () => {
   return (
     <div className="mx-auto max-w-7xl">
       <footer className="footer sm:footer-horizontal  text-base-content p-10">
-        <aside>
+        <aside className="">
           <h1 className="text-4xl font-extrabold">JUICY SHOP.</h1>
           <p>
             Condimentum adipiscing vel neque dis nam parturient <br /> orci at
             scelerisque neque dis nam parturient.
             <br />
-            Providing reliable tech since 1992
+            Providing reliable tech since 1992.
           </p>
           <p> 451 Wall Street, UK, London</p>
           <p>Phone:(064)322-1233</p>
