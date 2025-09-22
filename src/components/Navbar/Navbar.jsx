@@ -2,20 +2,20 @@ import { Link } from "react-router";
 
 const Navbar = () => {
   return (
-    <div className="mx-auto px-20 max-w-8xl">
-      <div className="navbar bg-red-400 border-zinc-500 ">
-        <div className="navbar-start">
+    <div className="mx-auto bg-red-400">
+      <div className="navbar px-20 border border-zinc-500 ">
+        <div className="navbar-start mt-2">
           <Link className="text-sm font-semibold text-white ml-5">HOME</Link>
           <Link className="text-sm font-semibold text-white ml-5">PRODUCTS</Link>
           <Link className="text-sm font-semibold text-white ml-5">BUY</Link>
           <Link className="text-sm font-semibold text-white ml-5">ELEMENTS</Link>
         </div>
         <div className="navbar-center">
-          <Link className="text-3xl font-extrabold text-center mb-1 text-white">
+          <Link className="text-3xl font-extrabold text-center  text-white">
             JUICY BAR.
           </Link>
         </div>
-        <div className="navbar-end">
+        <div className="navbar-end mt-2">
           <div className="">
             <Link className="text-white text-sm font-semibold mr-4">LOGIN/REGISTER</Link>
           </div>
