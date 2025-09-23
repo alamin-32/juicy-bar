@@ -29,7 +29,7 @@ const Process = () => {
         <div className="organic-bg3">
           <h1 className="text-6xl font-bold text-white pl-12 pt-6">3.</h1>
           <h3 className=" pl-12 text-white font-bold pt-4">Securely packed</h3>
-          <p className="pl-12 py-3 text-white">
+          <p className="pl-12 py-3 pr-4 text-white">
             From a lorem ipsum passage, and going through the cites of the word
             in classical literature disc.
           </p>
@@ -42,7 +42,7 @@ const Process = () => {
           <h3 className=" pl-12 text-white font-bold pt-4">
             Vitamins and minerals
           </h3>
-          <p className="pl-12 py-3 text-white">
+          <p className="pl-12 py-3 pr-3 text-white">
             This book is a treatise on the theory of ethics, very popular during
             the time of Renaissance.
           </p>

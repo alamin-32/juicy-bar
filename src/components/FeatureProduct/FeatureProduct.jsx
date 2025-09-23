@@ -17,7 +17,7 @@ const FeatureProduct = () => {
           </p>
         </div>
         <div className="or-product text-left pl-7 pt-7">
-          <h1 className="text-blue-400 text-2xl font-bold text-left">
+          <h1 className="text-yellow-400 text-2xl font-bold text-left">
             FRUIT TEA PACK
           </h1>
           <p className="pt-4 text-zinc-500 font-semibold">
