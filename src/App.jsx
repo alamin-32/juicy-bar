@@ -5,6 +5,7 @@ import Footer from "./components/Footer/Footer";
 import FeatureProduct from "./components/FeatureProduct/FeatureProduct";
 import Process from "./components/Process/Process";
 import IceCreamSection from "./components/IceCreamSection/IceCreamSection";
+import ProductBenefit from "./components/ProductBenefits/ProductBenefit";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <FeatureProduct></FeatureProduct>
       <Outlet></Outlet>
       <IceCreamSection></IceCreamSection>
+      <ProductBenefit></ProductBenefit>
       <Process></Process>
       <Footer></Footer>
     </div>

@@ -1,5 +1,7 @@
 .bg-img{
     background-image: url('/src/image/ice-bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 536px;
     width: 1904.97px;
 }

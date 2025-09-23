@@ -2,7 +2,7 @@ import "./IceCreamSection.css";
 
 const IceCreamSection = () => {
   return (
-    <div className="my-15">
+    <div className="">
       <div className="hero bg-img">
         <div className="hero-content mxx-auto max-w-7xl flex-col gap-5 lg:flex-row">
           <img
@@ -24,7 +24,7 @@ const IceCreamSection = () => {
                 <h3 className="text-md mt-1 text-white font-semibold">
                   INGREDIENTS
                 </h3>
-                <p className="text-gray-200 text-sm mt-2">
+                <p className="text-gray-200 text-sm  mt-2">
                   Make type specimen book
                 </p>
               </div>

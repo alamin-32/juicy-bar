@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="carousel w-full">
         <div id="slide1" className="carousel-item relative w-full">
           <img
-            src="/public/image/slide-bg-1.jpeg"
+            src="/src/image/slide-bg-1.jpeg"
             className="w-full bg-cover h-auto"
           />
 
@@ -22,7 +22,7 @@ const Hero = () => {
         <div id="slide2" className="carousel-item relative w-full">
         
           <img
-            src="/public/image/slide-bg-2.jpeg"
+            src="/src/image/slide-bg-2.jpeg"
             className="w-full bg-cover h-auto"
           />
           <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
@@ -36,7 +36,7 @@ const Hero = () => {
         </div>
         <div id="slide3" className="carousel-item relative w-full">
          
-          <img src="/public/image/slide-bg-3.jpeg" className="w-full h-auto" />
+          <img src="/src/image/slide-bg-3.jpeg" className="w-full h-auto" />
           <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#slide2" className="btn btn-circle">
               ❮
