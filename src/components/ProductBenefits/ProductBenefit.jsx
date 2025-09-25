@@ -12,7 +12,7 @@ const ProductBenefit = () => {
               src="/src/image/banana-icon.svg"
               alt=""
             />
-            <h4 className="text-center text-gray-500">
+            <h4 className="text-center text-gray-500 italic font-semibold">
               There are many variations of passages of lorem ipsum available
             </h4>
           </div>
