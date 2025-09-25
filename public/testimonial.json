@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Mountain View",
-    "img": "https://example.com/images/mountain.jpg",
-    "description": "A breathtaking view of a snow-covered mountain under a clear blue sky."
+    "name": "Preston Lenox",
+    "img": "/src/image/rewiew-1.webp",
+    "description": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for lorem ipsum will.Dom Clement Google Inc."
   },
   {
     "id": 2,
-    "name": "City Lights",
-    "img": "https://example.com/images/city.jpg",
-    "description": "Nighttime city skyline with skyscrapers illuminated by colorful lights."
+    "name": "Judie Jep",
+    "img": "/src/image/rewiew-2.jpeg",
+    "description": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for lorem ipsum will.Dom Clement Google Inc."
   },
   {
     "id": 3,
-    "name": "Forest Path",
-    "img": "https://example.com/images/forest.jpg",
-    "description": "A peaceful walking trail surrounded by tall green trees."
+    "name": "Gordon Path",
+    "img": "/src/image/rewiew-3.jpeg",
+    "description": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for lorem ipsum will.Dom Clement Google Inc."
   },
   {
     "id": 4,
-    "name": "Ocean Sunset",
-    "img": "https://example.com/images/sunset.jpg",
-    "description": "Golden sun setting over the ocean, reflecting on the waves."
+    "name": "Dom Clement",
+    "img": "/src/image/rewiew-4.webp",
+    "description": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for lorem ipsum will.Dom Clement Google Inc."
   }
 ]

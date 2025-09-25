@@ -3,11 +3,10 @@ import Blog from "./Blog";
 
 const Blogs = ({ blogsPromise }) => {
   const blogs = use(blogsPromise);
-  console.log(blogs);
   return (
     <div className="my-15">
       <div>
-        <h1 className="text-5xl font-bold text-center">Our Blogs</h1>
+        <h1 className="text-6xl font-bold text-center">Our Blogs</h1>
         <img className="mx-auto mt-5" src="/src/image/banana-icon.svg" alt="" />
         <h2 className="text-center mt-5 text-gray-500 italic font-semibold">There are many variations of passages of lorem ipsum available</h2>
       </div>

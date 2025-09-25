@@ -1,10 +1,11 @@
+import Reviews from "../Reviews/Reviews";
 import "./ProductBenefit.css";
 
 const ProductBenefit = () => {
   return (
     <div>
-      <div className="hero bg-ben  min-h-screen">
-        <div className="hero-content max-w-7xl mx-auto flex flex-col">
+      <div className="hero bg-ben min-h-screen">
+        <div className="hero-content max-w-7xl mx-auto pt-15 flex flex-col">
           <div className="mb-12">
             <h1 className="text-6xl font-bold text-center">How It Works</h1>
             <img
@@ -121,6 +122,7 @@ const ProductBenefit = () => {
               </div>
             </div>
           </div>
+          <Reviews></Reviews>
         </div>
       </div>
     </div>

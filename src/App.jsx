@@ -9,6 +9,7 @@ import ProductBenefit from "./components/ProductBenefits/ProductBenefit";
 import FruitDrink from "./components/FruitDrink/FruitDrink";
 import Blogs from "./components/Blogs/Blogs";
 import { Suspense } from "react";
+import Reviews from "./components/Reviews/Reviews";
 
 function App() {
   const blogsPromise = fetch("/public/blogs.json").then((res) => res.json());
@@ -24,6 +25,7 @@ function App() {
       </Suspense>
       <IceCreamSection></IceCreamSection>
       <ProductBenefit></ProductBenefit>
+      {/* <Reviews></Reviews> */}
       <Process></Process>
       <Footer></Footer>
     </div>
