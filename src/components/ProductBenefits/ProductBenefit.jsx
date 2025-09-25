@@ -105,7 +105,7 @@ const ProductBenefit = () => {
               </div>
               <div className="flex mt-10 mb-15">
                 <img
-                  className="ben-icon"
+                  className="ben-icon mt-1"
                   src="/src/image/hitwork-svg-1.svg"
                   alt=""
                 />

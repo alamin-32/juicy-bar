@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Nature-inspired outdoor seating",
+    "name": "Md Al-Amin",
+    "img1":"/src/image/blog-img-4.webp",
+    "img": "/src/image/rewiew-1.webp",
+    "description": "Parturient in potenti id rutrum duis torquent parturient sceler isque sit vestibulum a posuere scelerisque viverra urna. Egestas tristique vestib...",
+    "badge": "Wooden Accessories"
+  },
+  {
+    "id": 2,
+    "title": "Seating collection inspiration bt modern",
+    "name": "Md Al-Amin",
+    "img1":"/src/image/blog-img-2.webp",
+    "img": "/src/image/rewiew-1.webp",
+    "description": "Parturient in potenti id rutrum duis torquent parturient sceler isque sit vestibulum a posuere scelerisque viverra urna. Egestas tristique vestib...",
+    "badge": "Design Trends,Furniture"
+  },
+  {
+    "id": 3,
+    "title": "A light-filled loft in New York City",
+    "name": "Md Al-Amin",
+    "img1":"/src/image/blog-img-3.webp",
+    "img": "/src/image/rewiew-1.webp",
+    "description": "Parturient in potenti id rutrum duis torquent parturient sceler isque sit vestibulum a posuere scelerisque viverra urna. Egestas tristique vestib...",
+    "badge": "Wooden Accessories"
+  },
+  {
+    "id": 4,
+    "title": "Exploring Atlant's modern homes",
+    "name": "Md Al-Amin",
+    "img1":"/src/image/blog-img-4.webp",
+    "img": "/src/image/rewiew-1.webp",
+    "description": "Parturient in potenti id rutrum duis torquent parturient sceler isque sit vestibulum a posuere scelerisque viverra urna. Egestas tristique vestib...",
+    "badge": "Wooden Accessories"
+  }
+ 
+]
