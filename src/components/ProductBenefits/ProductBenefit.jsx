@@ -6,9 +6,15 @@ const ProductBenefit = () => {
       <div className="hero bg-ben  min-h-screen">
         <div className="hero-content max-w-7xl mx-auto flex flex-col">
           <div className="mb-12">
-                      <h1 className="text-6xl font-bold text-center">How It Works</h1>
-                      <img className="mx-auto my-5" src="/src/image/banana-icon.svg" alt="" />
-                      <h4 className="text-center text-gray-500">There are many variations of passages of lorem ipsum available</h4>
+            <h1 className="text-6xl font-bold text-center">How It Works</h1>
+            <img
+              className="mx-auto my-5"
+              src="/src/image/banana-icon.svg"
+              alt=""
+            />
+            <h4 className="text-center text-gray-500">
+              There are many variations of passages of lorem ipsum available
+            </h4>
           </div>
           <div className="flex justify-between">
             <div className="mr-2 mt-15">
@@ -62,7 +68,8 @@ const ProductBenefit = () => {
               </div>
             </div>
             {/* middle photo */}
-            <img src="/src/image/org-ben.png" className="bg-ben-img" />
+            <img src="/src/image/org-ben1.png" className="bg-ben-img" />
+            {/* second area */}
             <div className="ml-2 mt-15">
               <div className="flex mt-10 mb-15">
                 <img

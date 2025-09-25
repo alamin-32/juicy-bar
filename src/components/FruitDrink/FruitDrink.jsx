@@ -5,7 +5,7 @@ const FruitDrink = () => {
     <div>
       <div className="hero bg-white mx-w-7xl my-10">
         <div className="hero-content flex-col lg:flex-row">
-          <img src="/src/image/blend-bg.png" className="blend-img" />
+          <img src="/src/image/blend-bg2.png" className="blend-img" />
           <div className="ml-15">
             <h1 className="text-6xl font-bold">Blend fruits</h1>
             <h1 className="text-6xl font-bold">premium drink</h1>

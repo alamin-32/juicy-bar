@@ -6,8 +6,8 @@ const IceCreamSection = () => {
       <div className="hero bg-img">
         <div className="hero-content mxx-auto max-w-7xl flex-col gap-5 lg:flex-row">
           <img
-            src="/src/image/ice-img.png"
-            className="ml-14 mt-4 w-5xl bg-transparent rounded-lg "
+            src="/src/image/ice-img1.png"
+            className="ml-23 mt-8 ice-img bg-transparent rounded-lg "
           />
           <div className="pl-10">
             <h1 className="text-5xl text-white font-bold">
