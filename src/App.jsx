@@ -6,6 +6,7 @@ import FeatureProduct from "./components/FeatureProduct/FeatureProduct";
 import Process from "./components/Process/Process";
 import IceCreamSection from "./components/IceCreamSection/IceCreamSection";
 import ProductBenefit from "./components/ProductBenefits/ProductBenefit";
+import FruitDrink from "./components/FruitDrink/FruitDrink";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Navbar></Navbar>
       <Hero></Hero>
       <FeatureProduct></FeatureProduct>
+      <FruitDrink></FruitDrink>
       <Outlet></Outlet>
       <IceCreamSection></IceCreamSection>
       <ProductBenefit></ProductBenefit>
